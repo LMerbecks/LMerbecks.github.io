@@ -9,9 +9,10 @@ the [Technical University of Munich][tum-link]. I am
 passionate about mechanical design in general but control
 theory, mechatronics, thermodynamics, and aerodynamics in
 particular. Electronics and software have also become an
-interest of mine lately. 
+interest of mine lately. Also, I have been applying and
+designing for additive manufacturing for ten years now.
 
-I love being interdisciplinary and combining skills from
+Interdisciplinary challenges are my specialty and I love combining skills from
 various specializations to create something new. That is why
 I realize projects ranging from small embedded systems to
 full scale mechanical products in my free time. Some of the
