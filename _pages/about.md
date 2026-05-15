@@ -22,6 +22,6 @@ full scale mechanical products in my free time. Some of the
 projects are showcased here in a report fashion.
 
 If you'd like to get in touch with me you can contact me via
-the channels listed below.
+the channels listed to the side.
 
 [tum-link]: https://www.tum.de
