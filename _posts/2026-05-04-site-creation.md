@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Site Creation"
-date:   2026-05-04 00:34:57 +0200
-categories: jekyll update
+title: "Site Creation"
+date: 2026-05-04
+permalink: /posts/2026/05/site-creation
+tags: 
+    - create
 ---
 
 While I already had a Github Page for some time now, I never
