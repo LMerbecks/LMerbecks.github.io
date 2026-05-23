@@ -16,18 +16,18 @@ Education
   * 10/2023 – 01/2026  
   * Specialization: Mechatronics, Control Engineering, Thermodynamics  
   * Thesis: Development of a Power Distribution System for a Hybrid Fly-By-Wire Flight Control System  
-  * Final grade: 1.0 (high distinction)
+  * Final grade: **1.0** (high distinction)
 
 * Erasmus+ Exchange Program, Háskólí Íslands, Reykjavík, Iceland
   * 08/2024 – 12/2024  
   * Specialization: Geothermal Engineering, Design Optimization  
-  * Final grade: 9.67 (first class with distinction)
+  * Final grade: **9.67** (first class with distinction)
 
 * B.Sc. Mechanical Engineering, Technical University of Munich, Munich, Germany
   * 10/2019 – 05/2023  
   * Specialization: Control Engineering, Thermodynamics, Aerodynamics  
   * Thesis: Implementation and Validation of Calibration Methods for Experimental Investigation of Flow Angles and Velocities in a Research Compressor using Hot-Wire Anemometry  
-  * Final grade: 1.3 (distinction)
+  * Final grade: **1.3** (distinction)
 
 Professional Experience
 ======
