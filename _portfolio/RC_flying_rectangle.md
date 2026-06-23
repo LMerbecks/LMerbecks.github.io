@@ -3,6 +3,7 @@ title: "Radio Controlled Flying Rectangle"
 excerpt: "Radio controlled airplanes offer a great playground for experimenting with mechanical and electrical design concepts. While the only limit is ones imagination RC airplanes need not be scaled model versions of real airplanes. They can be as simple as a wing with a propeller and control surfaces. To built such a simple plane is the goal of this project.<br/><img src='/images/flying-rectangle/flying-rectangle-in-the-field_cropped.jpeg'>"
 collection: portfolio
 author_profile: false
+date: 2026-06-22
 ---
 
 {% include toc %}
